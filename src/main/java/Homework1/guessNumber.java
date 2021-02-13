@@ -1,6 +1,6 @@
-package app;
+package Homework1;
 
-public class HelloWorldApp {
+public class guessNumber {
 
   public static void main(String[] args) {
     System.out.println("Hello World");
